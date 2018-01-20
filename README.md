@@ -1,6 +1,6 @@
 # Simple Python Crawler for Python 3
 
-This is a simple crawler wrote on python
+This is a simple crawler written on python
 
 ```bash
 USAGE : ./crawler.py <number_of_pages> <url>
