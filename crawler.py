@@ -7,7 +7,7 @@ from threading import Thread
 
 OUTPUT_FILE = "pages.txt"
 LOCK = threading.Lock()
-QUEUE_SIZE = 1000
+QUEUE_SIZE = 100
 WAIT_TIME = 1 ## wait time
 FULL_QUEUE_WAIT_TIME = 1 ## if queue is full, wait
 SEPARATOR = " || "
